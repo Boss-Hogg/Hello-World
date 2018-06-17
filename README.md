@@ -1,3 +1,3 @@
 # Hello-World
-Walking through the guide
+Going through the Github guide, learning about the process.
 Modifying the contents. 
